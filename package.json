@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@huggingface/agents": "^0.0.5"
+  }
+}
