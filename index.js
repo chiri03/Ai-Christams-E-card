@@ -4,9 +4,9 @@ const dialogModal = document.getElementById("dialog-modal");
 const imageContainer = document.getElementById("image-container");
 const userInput = document.getElementById("user-input");
 
-const Api = "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";
-
 dialogModal.show();
+
+const Api = "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";
 
 dialogModal.addEventListener("submit", async (event) => {
   event.preventDefault();
